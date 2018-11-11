@@ -30,5 +30,5 @@ You can create virtual environment first from the requirements.txt file.
 
 ## Acknowledgments
 
-* Thanks for Python programmers community
+* Thanks for Python programmers community members
  
